@@ -4,9 +4,8 @@ a travez del control de versiones en los repositorios. Por su parte. Github es u
 trabajo que estamos realizando, permitiendonos crear repositorios remotos en la nube por medio de sus servidores
 facilitando así el trabajo colaborativo al permitir que todos puedan acceder a este trabajo.
 
-Pregunta 2. Por el momento no encontramos ninguna dificultad o conflicto en este trabajo, resaltando los conflictos 
-que pueden presentarse al intenta hacer una modificacion al mismo programa desde dos usuarios diferentes. Aunque, 
-por el momento no hemos tenido estas dificultades.
+Pregunta 2. Encontramos problemas al no hacer git pulls para poder tener los cambios hechos por el compañero. Pero pudiemos solucionarlo
+al tomar como practica hacer pulls para actualizar el repositorio propio.
 
 Pregunta 3. Considero que es una herramienta muy util en los proyectos de programacion porque nos permite tenes un
 control acerca de nuestro codigo, tener un respaldo en caso de errores y especialemente porque permite tener facilidades
