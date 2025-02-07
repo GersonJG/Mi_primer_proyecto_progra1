@@ -8,3 +8,5 @@ registro acerca de las versiones de los programas con los cuales estamos trabaja
 muchas funciones que nos permiten trabajar de manera más eficiente con los programas creando ramas
 para no afectar de manera directa al programa principal y que, una vez terminados los cambios, podemos
 agregarlos a la rama principal mediante la fusion de las ramas.
+
+Modificando la rama Gerson.
