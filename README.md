@@ -16,8 +16,7 @@ permitiendo a los grupos de trabajo realizar cambios constantes al contenido sin
 el programa principal, así agilizando los procesos, ya que permite que todos trabajen con el mismo 
 programa, pero con sus propias versiones.
 
-<<<<<<< HEAD
+
 Modificando la Rama Carlo
-=======
+
 Modificando la rama Gerson.
->>>>>>> 1ba6a76701170d83b45787783e154f8c0532a0d7

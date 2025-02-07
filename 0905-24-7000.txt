@@ -1,0 +1,13 @@
+Pregunta 1. En este primer proyecto aprendí la diferencia que existe entre Git y Github
+aprendiendo como funciona cada uno. Inciando por Git el cual permite tener un trabajo más ordenado
+a travez del control de versiones en los repositorios. Por su parte. Github es una web que nos permite compartir el
+trabajo que estamos realizando, permitiendonos crear repositorios remotos en la nube por medio de sus servidores
+facilitando así el trabajo colaborativo al permitir que todos puedan acceder a este trabajo.
+
+Pregunta 2. Encontramos problemas al no hacer git pulls para poder tener los cambios hechos por el compañero. Pero pudiemos solucionarlo
+al tomar como practica hacer pulls para actualizar el repositorio propio.
+
+Pregunta 3. Considero que es una herramienta muy util en los proyectos de programacion porque nos permite tenes un
+control acerca de nuestro codigo, tener un respaldo en caso de errores y especialemente porque permite tener facilidades
+con el control de nuestro codigo, permitiendo editarlo, crear ramas para modificar el codigo si afectar la rama principal, etc.
+Así que, desde mi perspectiva, considero que es una herramienta muy util y casi indispensable para los proyectos de programacion.
