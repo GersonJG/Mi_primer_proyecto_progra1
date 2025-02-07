@@ -1,0 +1,6 @@
+Pregunta 1. Aprendí varias de las utilidades y facilidades que presenta tanto Git cómo GitHub, por un lado Git nos permite llevar un orden y control sobre los datos que estamos manejando, por otro lado GitHub nos permite guardar nuestros repositorios en la nube, permitiendo y facilitando el trabajo en línea, además de permitirnos publicar nuestros proyectos al publico general.
+
+Pregunta 2. Encontramos problemas al no hacer git pulls para poder tener los cambios hechos por el compañero. Pero pudiemos solucionarlo
+al tomar como practica hacer pulls para actualizar el repositorio propio.
+
+Pregunta 3. Ofrece ventajas como la gestion de versiones, la gestion de ramas que facilitan mucho el trabajo en equipo, además de poder resguardar el código principal y llevar un historial de los cambios realizados, todo esto nos ayuda a llevar un mejor control sobre el código además de permitir todos los integrantes puedan realizar cambios de manera independiente sin interrumpir el trabajo de los demás.
